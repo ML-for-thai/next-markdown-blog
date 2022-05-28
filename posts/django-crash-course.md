@@ -18,6 +18,8 @@ in.
 4. Vulnus se Latreus
 5. Aptumque bis
 
+### test equation
+$$ \frac{1}{2} $$
 ## Turpius Aegides membris colat volentes fallere
 
 Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
